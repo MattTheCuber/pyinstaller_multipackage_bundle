@@ -3,7 +3,7 @@
 block_cipher = None
 
 exe1_a = Analysis(['executables1.py'],
-             pathex=['C:\\Users\\natuo\\OneDrive\\Documents\\SHOOL\\Internship\\Arcurve\\pyinstallerCopy'],
+             pathex=['C:\\Users\\natuo\\OneDrive\\Documents\\SHOOL\\Internship\\pyinstaller\\pyinstaller_multipackage_bundle'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -16,7 +16,7 @@ exe1_a = Analysis(['executables1.py'],
              noarchive=False)
 
 exe2_a = Analysis(['executables2.py'],
-             pathex=['C:\\Users\\natuo\\OneDrive\\Documents\\SHOOL\\Internship\\Arcurve\\pyinstallerCopy'],
+             pathex=['C:\\Users\\natuo\\OneDrive\\Documents\\SHOOL\\Internship\\pyinstaller\\pyinstaller_multipackage_bundle'],
              binaries=[],
              datas=[],
              hiddenimports=[],
