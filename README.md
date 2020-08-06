@@ -35,5 +35,5 @@ Then you want to copy and paste ...
 Then,
 
 ```
-pyinstaller build combined.spec
+pyinstaller combined.spec
 ```
